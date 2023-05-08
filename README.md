@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 💬 Ask me about 
 -->
-- 🔭 I’m currently working on Mock Service Worker and how it can be used to intercept API requests using browser (without using any backend or server) in my internship at a startup company.
+- 🔭 I just finished working on Mock Service Worker and how it can be used to intercept API requests using browser (without using any backend or server) in my internship at a startup company.
 - 🌱 I’m currently learning React, Node.js and more! (I'm sort of trying out different things right now!)
 - 🤔 I’m looking for a position as a junior entry frontend developer! I am up for remote, onsite or hybrid. I am aware that I still have a lot to learn, and I am excited to move forward in this journey! ✨
 
