@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for a position as a junior entry frontend developer! I am up for remote, onsite or hybrid. I am aware that I still have a lot to learn, and I am excited to move forward in this journey! ✨
 
 
-- 📫 How to reach me: ``https://www.linkedin.com/in/liandelacruz/`` for LinkedIn, +46728392604 and ``lianalarciodelacruz@gmail.com`` for my e-mail. 
+- 📫 How to reach me: ``https://www.linkedin.com/in/liandelacruz/`` for LinkedIn, and ``lianalarciodelacruz@gmail.com`` for my e-mail. 
 
 - ⚡ Fun fact: Did you know that not liking a cilantro is a genetic issue? If you are not a big fan of cilantro, it is likely because you have a variation in a group of olfactory-receptor genes that allows you to strongly perceive the soapy-flavored aldehydes in cilantro leaves. :D ✨
 
