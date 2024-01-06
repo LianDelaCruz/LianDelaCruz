@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about 
 -->
 - 🔭 I just finished working on Mock Service Worker and how it can be used to intercept API requests using browser (without using any backend or server) in my internship at a startup company.
-- 🌱 I’m currently learning React, Node.js and more! (I'm sort of trying out different things right now!)
+- 🌱 I’m currently learning React, Node.js and more! (I'm sort of trying out different things right now!) I have finished a short course for creating great things with Raspberry Pi (I made a temperature logger!), learned Internet of things, created a simple WordPress blogsite, and dived into digital creation where I created a film, edit photos and created my own SVG, all this was done before the end of 2023.
 - 🤔 I’m looking for a position as a junior entry frontend developer! I am up for remote, onsite or hybrid. I am aware that I still have a lot to learn, and I am excited to move forward in this journey! ✨
 
 
